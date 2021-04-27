@@ -1,3 +1,3 @@
 - :brazil: brazilian web developer
 - :house: working remotely
-- :cambodia: working on an great Cambodian company **@khalibre**
+- :cambodia: working on a great Cambodian company **@khalibre**
